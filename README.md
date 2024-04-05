@@ -21,45 +21,44 @@ Repositório para armazenar resumos sobre Git e GitHub do Curso Versionamento de
 
 ## Principais comandos Git
 
--  git help
-
+-  git help:
 Exibe as informações de ajuda sobre git e pode ser utilizado quando você tiver dúvidas ou esquecer de algum comando.
 
-- git config
+- git config:
 Permite ver e atribuir variáveis de configuração do git, geralmente utilizado quando você precisa iniciar a configuração do GIT ou para consultar quais são suas configurações atuais.
 
-- git init
+- git init:
 Este comando pode ser utilizado para criar um novo repositório do Git ou para transformar um diretório em um repositório do Git.
 
-- git clone
+- git clone:
 Permite clonar um repositório existente. Clonar é basicamente extrair uma cópia completa de todos os dados de um repositório para seu diretório.
 
-- git add
+- git add:
 Para adicionar algo que foi modificado ou criado, pode ser utilizado para adicionar arquivos e diretórios.
 
-- git rm
+- git rm:
 Para remover arquivos ou diretórios de um repositório.
 
-- git commit
+- git commit:
 Para gravar as alterações do que foi modificado, adicionado ou removido.
 
-- git status
+- git status:
 Exibe uma lista dos arquivos e diretórios que foram modificados e adicionados no repositório.
 
-- git diff
+- git diff:
 Pode ser utilizado para visualizarmos as alterações efetuadas em cada um dos arquivos modificados.
 
-- git checkout
+- git checkout:
 Permite alternar entre os branchs existentes e também resetar arquivos que foram modificados.
 
-- git branch
+- git branch:
 Para gerenciar os branchs. Possibilita criar novos branchs, listar todos existentes e removê-los.
 
-- git pull
+- git pull:
 Este comando mescla as alterações do repositório remoto para o seu repositório local, ou seja, ele traz todas as modificações que foram efetuadas.
 
-- git push
+- git push:
 Este comando envia as alterações do seu repositório local para o repositório remoto, conforme a branch que está sendo utilizada.
 
-- git log
+- git log:
 Exibe os logs dos commits efetuados. Este comando disponibiliza diversos parâmetros para detalhar os logs, permitindo visualizar exatamente o que você desejar.
